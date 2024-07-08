@@ -1,5 +1,6 @@
 
 
+
 import './App.css'
 
 function App() {
@@ -9,7 +10,14 @@ function App() {
       <div><p>Mr Danial Pasha</p>
       <p>Mr Hassan</p>
       <p>Mr Noor Ul Hassan</p>
+
+      <div><p>Mr Danial Pasha</p>
+      <p>Mr Hassan</p>
+      <p>Mr Noor Ul Hassan</p>
       </div>
+
+      <div><p>Mr HamzaIshtiaq</p></div>
+
 
       <div><p>Mr Ali Raza Bhatti</p></div>
 
