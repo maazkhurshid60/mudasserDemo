@@ -8,11 +8,7 @@ function App() {
         <p>Mr Hassan</p>
         <p>Mr Noor Ul Hassan</p>
       </div>
-
-      <div><p>Mr Danial Pasha</p>
-      <p>Mr Hamza</p>
-      <p>Mr Noor Ul Hassan</p>
-      </div>
+      
     </>
   );
 }
