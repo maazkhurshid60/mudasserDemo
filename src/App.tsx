@@ -9,26 +9,9 @@ function App() {
         <p>Mr Noor Ul Hassan</p>
       </div>
 
-      <div>
-        <p>Mr Danial Pasha</p>
-        <p>Mr Hassan</p>
-        <p>Mr Noor Ul Hassan</p>
-      </div>
-
-      <div>
-        <p>Mr Hamza Ishtiaq</p>
-      </div>
-
-      <div>
-        <p>Mr Ali Raza Bhatti</p>
-      </div>
-
-      <div>
-        <p>Mr Ali Raza Bhatti</p>
-      </div>
-
-      <div>
-        <p>Mr Hamza Ishtiaq</p>
+      <div><p>Mr Danial Pasha</p>
+      <p>Mr Hamza</p>
+      <p>Mr Noor Ul Hassan</p>
       </div>
     </>
   );
