@@ -5,7 +5,7 @@ function App() {
     <>
       <div>
         <p>Mr Danial Pasha</p>
-        <p>Mr Hassan</p>
+        <p>Mr hamza</p>
      
       </div>
       
